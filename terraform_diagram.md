@@ -1,4 +1,5 @@
-Draw a diagram of architectural states in terraform
+# Draw a diagram of architectural states in terraform
+
 Explanation of the architectural states in Terraform and guide you on how to create a diagram.
 
 Terraform uses states to store information about the infrastructure it manages. The key components of a Terraform state diagram include:
