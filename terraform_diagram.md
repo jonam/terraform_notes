@@ -23,4 +23,6 @@ Resource Instances --[Stored in]--> State File
 State File --[Managed by]--> Backend
 ```
 
+![Example Architecture](img.png)
+
 You can create a diagram based on this textual representation using diagramming tools like Lucidchart, Draw.io, or Microsoft Visio.
